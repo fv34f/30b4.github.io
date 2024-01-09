@@ -30,7 +30,7 @@ author_email: "30b4@proton.me"
 author_location: Germany
 author_website_url: ""
 typewrite-text: hinter 30b4 stecke ich Eddie
-hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+hero_cover_img: https://raw.githubusercontent.com/fv34f/30b4.github.io/master/screenshots/30b4.png # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # social links
 github_username:  fv34f
