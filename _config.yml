@@ -34,13 +34,6 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 
 # social links
 github_username:  fv34f
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-steam_username: johndoe
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
@@ -60,7 +53,7 @@ highlighter: rouge
 permalink: pretty
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
+show_author_work_experiences: false
 show_author_education_details: false
 show_author_project_details: false
 
