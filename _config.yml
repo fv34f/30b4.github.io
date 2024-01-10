@@ -2,7 +2,7 @@ title: 30b4
 subtitle:
 description:
 
-url: "https://fv34f.github.io/30b4.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "/30b4.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "/30b4.github.io" # the subpath of your site, e.g. /blog
 
 # Navigation
