@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Clash of Clans
+title: coc
 permalink: /blog/categories/coc/
 ---
 
