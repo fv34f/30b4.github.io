@@ -23,17 +23,18 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: https://raw.githubusercontent.com/fv34f/30b4.github.io/master/screenshots/30b4.png
+author_logo: 30b4.png
 author: 30b4
 author_bio: Hallo, ich bin 30b4! In meiner Freizeit tauche ich gerne in die aufregenden Welten von Rogue Company und Clash of Clans ein, wobei ich auch hin und wieder gerne ein Story-Game genieße. Mein neues Hobby ist das Erlernen des Programmierens mit GitHub, wo ich die faszinierende Welt des Codens erkunde. Neben meiner digitalen Leidenschaft habe ich auch einen treuen Begleiter namens Chase - meine Katze, die mit mir durch die Höhen und Tiefen des Gaming- und Coding-Lebens geht. Schließ dich mir an, während ich meine Abenteuer in der Welt der Technologie und Spiele fortsetze!
 author_email: "30b4@proton.me"
 author_location: Germany
 author_website_url: ""
 typewrite-text: hinter 30b4 stecke ich Eddie
-hero_cover_img: https://raw.githubusercontent.com/fv34f/30b4.github.io/master/screenshots/30b4.png # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+hero_cover_img: 30b4.png # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # social links
 github_username:  fv34f
+steam_username: 30b4
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
