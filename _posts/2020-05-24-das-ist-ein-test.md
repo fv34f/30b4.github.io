@@ -1,7 +1,7 @@
 ---
 layout: post
 author: johndoe
-title: Netlify CMS created this Article
+title: Netlify CMS created this Article2
 date: 2020-05-23T09:52:20.613Z
 thumbnail: /assets/img/posts/hello.jpg
 category: jekyll
