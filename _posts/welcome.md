@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Welcome"
+summary: "Eine kleiner Persönlich vorstellung"
+author: 30b4
+date: '2024-01-10 14:35:23 +0530'
+category: Vorstellung
+thumbnail: /assets/img/posts/code.jpg
+keywords: aboutme, vorstellung, github, welcome, movie filme, horror, thriller, science-fiction
+permalink: /blog/welcome/
+usemathjax: true
+---
+
+Hallo, ich bin Eduard. Als leidenschaftlicher Spieler durchstreife ich die faszinierenden Welten der Videospiele. Mit einer ehrlichen und liebevollen Natur versuche ich, in all meinen Beziehungen Aufrichtigkeit und Zuneigung zu zeigen. Trotz meiner freundlichen Art kann es hin und wieder vorkommen, dass ich mich in den Tiefen der Wut verliere, aber letztendlich treibt mich die Liebe an.
+
+Seit meiner Diagnose mit Multipler Sklerose im Alter von 11 Jahren habe ich gelernt, die Herausforderungen des Lebens mit Entschlossenheit zu meistern. Diese Erkrankung begleitet mich nun seit meiner Jugend, und ich nutze sie als Ansporn, um die vielen Facetten des Lebens zu schätzen und zu erkunden. Mit 30 Jahren erfreue ich mich nach wie vor daran, vorwärts zu gehen, nicht nur körperlich, sondern auch metaphorisch, indem ich aktiv den vielfältigen Herausforderungen begegne, die das Leben mir entgegenwirft.
+
+Meine Liebe zu Filmen erstreckt sich von Horror über Thriller bis hin zu Science-Fiction. Breaking Bad ist meine Lieblingsserie, die ich 1-3 Mal im Jahr komplett anschaue. South Park ist ebenfalls eine Empfehlung wert, besonders für herzhaftes Lachen.
+
+Ich danke dir herzlich fürs Lesen und die Zeit, die du mir gewidmet hast.
