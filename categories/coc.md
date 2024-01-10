@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clash of Clans
-permalink: /blog/categories/Clash of Clans/
+permalink: /blog/categories/coc/
 ---
 
 <h5> Posts by Category : {{ page.title }} </h5>
